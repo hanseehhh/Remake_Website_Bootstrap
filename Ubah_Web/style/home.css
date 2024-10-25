@@ -12,7 +12,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    z-index: 1000; /* Always on top */
+    z-index: 1000; 
 }
 
 .navbar .nav-link {
@@ -80,6 +80,7 @@ body {
     background-color: rgba(0, 0, 0, 0.5);
     z-index: 1;
 }
+/* end first section */
 
 /* first page */
 .first-page {

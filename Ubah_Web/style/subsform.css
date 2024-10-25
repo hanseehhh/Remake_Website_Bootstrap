@@ -9,7 +9,7 @@ body {
     left: 0;
     width: 100%;
     padding: 1rem;
-    z-index: 1000; /* Pastikan navbar di atas konten */
+    z-index: 1000;
 }
 
 .navbar .nav-link {
@@ -34,7 +34,7 @@ body {
 
 .contact-form {
     height: auto;
-    margin-top: 10rem; /* Atur margin atas agar form tidak tertutup navbar */
+    margin-top: 10rem;
     margin-bottom: 2rem;
     max-width: 70rem; 
     width: 100%; 

@@ -9,7 +9,7 @@ body {
     left: 0;
     width: 100%;
     padding: 1rem;
-    z-index: 1000; /* Pastikan navbar di atas konten */
+    z-index: 1000; 
 }
 
 .navbar .nav-link {
